@@ -1,6 +1,3 @@
-# 💫 About Me:
-🔭 I’m currently working personal Jobs finder<br>🌱 I’m currently Node.Js and Express.Js<br>💬 Ask me about music, games, cars and technology<br>
-
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ruanmartellote) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ruanmartellote) 
